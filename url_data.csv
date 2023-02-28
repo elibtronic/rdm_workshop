@@ -1,0 +1,7 @@
+url,neg,neu,pos,compound
+https://www.cbc.ca/news/canada/new-brunswick/chatgpt-academia-cybersecurity-1.6733202,0.049,0.825,0.126,0.9991
+https://www.cbc.ca/news/canada/hamilton/chatgpt-school-cheating-1.6734580,0.051,0.854,0.094,0.9948
+https://www.science.org/doi/10.1126/science.adg7879,0.0,0.812,0.188,0.7351
+https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/,0.02,0.886,0.095,1.0
+https://www.cnet.com/tech/elon-musk-reportedly-eyeing-development-of-chatgpt-rival/,0.023,0.911,0.066,0.9713
+https://theconversation.com/major-publishers-are-banning-chatgpt-from-being-listed-as-an-academic-author-whats-the-big-deal-198765,0.029,0.876,0.095,0.9981

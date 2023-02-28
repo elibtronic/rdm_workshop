@@ -1,2 +1,6 @@
-# rdm_workshop
-For the RMD Workshop
+
+
+# RDM Test dataset
+
+Award winning research on chatGPT
+

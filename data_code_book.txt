@@ -1,0 +1,10 @@
+
+
+Column of the data are:
+
+url - url of chatgpt article
+neg - VADER negative score
+neu - VADER neutral score
+pos - VADER pos score
+compund - VADER compound score
+
